@@ -1,8 +1,8 @@
 from webbot import Browser
 from pynput.keyboard import Key, Controller
 import time
-username = input('Username: ')
-dictionary = input('Choose Dictionary: ')
+username = input('megha.x._')
+dictionary = input('123456 ')
 
 file = open(f'{dictionary}.txt', 'r')
 bruteforce = []
